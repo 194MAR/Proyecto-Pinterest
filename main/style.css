@@ -1,0 +1,32 @@
+body{
+  box-sizing:border-box;
+  background-color: #FF5733;
+}
+header{
+  background-color:#C70039;
+}
+header > *{
+  display:inline-block;
+  text-align: center;
+
+}
+header > h1{
+  width: 10%;
+}
+header > form{
+  width: 65%;
+}
+header > navbar{
+  width: 20%;
+}
+.col {
+  float: left;
+  width: 450px;
+  margin: 5px;
+}
+img {
+  width: 350px;
+  height: 300px;
+  border-radius: 25px;
+
+}
